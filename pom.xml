@@ -55,7 +55,7 @@
           	<archive>
             	<manifest>
               	<addClasspath>true</addClasspath>
-              	<mainClass>com.hreshi.rawchat.App</mainClass>
+              	<mainClass>com.hreshi.rawchat.Server</mainClass>
             	</manifest>
           	</archive>
         </configuration>
